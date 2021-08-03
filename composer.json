@@ -16,7 +16,8 @@
         "vreedom18/bingo-theme": "^1.0",
         "rainlab/blog-plugin": "^1.5",
         "samuell/contenteditor-plugin": "^1.3",
-        "rainlab/pages-plugin": "^1.4"
+        "rainlab/pages-plugin": "^1.4",
+        "janvince/smallrecords-plugin": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0|^9.0",
